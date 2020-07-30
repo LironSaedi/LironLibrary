@@ -24,6 +24,10 @@ namespace Liron_Library_Class
             //Program
                 //display all the bookshelves and ask the user which they want to view
                 //View all the books and then give them an option to checkout a book
+
+
+            /// Get the bookshelf and its nothing inside of it.
+            /// Display all of the information.
         }
     }
 }
