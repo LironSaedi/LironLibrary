@@ -8,7 +8,7 @@ namespace Liron_Library_Class
 
     class Bookshelf
     {
-        List<Book> books = new List<Book>();
+      public  List<Book> books = new List<Book>();
 
         public string GetBookInfo(int index)
         {
